@@ -23,7 +23,11 @@ body {
     z-index: -1;
     filter: grayscale();
 
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 4e5b2e883e809a9ae7535dfc68203a698fca6b90
 }
 
 .hero {
@@ -75,6 +79,7 @@ body {
 .home {
     background-image: url(img/foto\ 2.jpg);
     background-size: cover;
+<<<<<<< HEAD
     min-height: 500%;
     margin-top: -6rem;
     padding-top: 15rem;
@@ -82,6 +87,14 @@ body {
 }
 
 
+=======
+    min-height:100%;
+    margin-top: -6rem;
+    padding-top: 15rem;
+    padding-bottom: 5rem;
+}
+
+>>>>>>> 4e5b2e883e809a9ae7535dfc68203a698fca6b90
 .home img {
     box-shadow: var(--shadow);
     color: rgb(5, 2, 2);
